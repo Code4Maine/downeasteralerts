@@ -31,3 +31,27 @@ The Downeaster shares trackage with the MBTA Commuter Rail on portions of the [L
 The following URL also lists commuter rail service advisories as they occur- http://www.mbta.com/rider_tools/transit_updates/
 
 The [MBTA GTFS-Realtime Feed](http://realtime.mbta.com/portal) includes the most updated information affecting MBTA services, including Commuter Rail.
+
+The LIVE MBTA Map displays real-time train locations on Google Maps.  Lowell Line Trains can be found through the following link- http://sites.harvard.edu/~wuensch/T/commuter-rail-map.html?line=lowell#options
+
+Haverhill Line Trains can be found through the following link-
+http://sites.harvard.edu/~wuensch/T/commuter-rail-map.html
+
+**Railroad Radio Frequencies**
+
+ 160.5900  Downeaster Both Trains and Dispatcher Reporting
+North Station to Wilmington Junction
+
+ 161.1600	 Downeaster Dispatcher Only
+Lowell Junction to Portland Maine 
+
+ 161.5200	 Downeaster Train Only
+Lowell Junction to Portland Maine 
+
+ 161.3700	 Pan Am RR Track Crews (Used During Construction)
+Lowell Junction to Portland Maine 
+
+
+
+
+
