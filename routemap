@@ -1,0 +1,30 @@
+
+*Route Maps and Schematic templates
+
+Wikipedia Route Map Template-https://en.wikipedia.org/wiki/Template:Amtrak_Downeaster
+
+{{BS-map|inline=<includeonly>1</includeonly>
+|title=[[Downeaster]]
+|map=
+{{BS|KHSTACCa|{{BScvt|145}}|[[Brunswick Maine Street Station|Brunswick]]}}
+{{BS|HSTACC|{{BScvt|136}}|[[Freeport, Maine (Amtrak station)|Freeport]]}}
+{{BS|ACC|{{BScvt|116}}|[[Portland Transportation Center|Portland]]}}
+{{BS|HSTACC|{{BScvt|104}}|{{amtk|Old Orchard Beach}}}}
+{{BS|HSTACC|{{BScvt|100}}|[[Saco Transportation Center|Saco-Biddeford]]}}
+{{BS|eHSTACC|{{BScvt|90}}|{{amtk|Kennebunk}}|(2015)}}
+{{BS|HSTACC|{{BScvt|84}}|[[Wells Regional Transportation Center|Wells]]}}
+{{BS|WBRÜCKE|O1=GRZq|||{{BSsplit|[[Maine]]|[[New Hampshire]]|line=1}}}}
+{{BS|HSTACC|{{BScvt|68}}|{{amtk|Dover}}}}
+{{BS|HSTACC|{{BScvt|62}}|{{stn|Durham–UNH}}}}
+{{BS|HSTACC|{{BScvt|51}}|{{amtk|Exeter}}}}
+{{BS|STR+GRZq|||{{BSsplit|[[New Hampshire]]|[[Massachusetts]]|line=1}}}}
+{{BS|HSTACC|{{BScvt|34}}|{{amtk|Haverhill}}}}
+{{BS|HSTACC|{{BScvt|13}}|[[Anderson Regional Transportation Center|Woburn]]}}
+{{BS|KINTACCe|{{BScvt|0}}|[[North Station|Boston North Station]]}}
+|bottom={{navbar|mini=1|Amtrak Downeaster}}
+}}<noinclude>
+
+{{Amtrak-railway-routemap}}
+
+[[Category:Amtrak railway line navigational boxes|Downeaster]]
+</noinclude>
